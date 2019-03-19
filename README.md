@@ -9,3 +9,5 @@
 Dataset includes 819 pokemon pictures 256x256 (.png RGBA).
 For better learning, I increased the sample to ~ 12000 images using different displays and turns. 
 I removed the alpha channel and squeezed each image to 64x64 pixels.
+## Result:
+![alt text](https://raw.githubusercontent.com/OlehUgnivenko/pokemon_GAN/master/result_images/_epoch_199_batch_100.png)
